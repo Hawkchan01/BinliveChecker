@@ -1,5 +1,5 @@
 <?php
-class CC
+class Checker
 
 function value($string, $start, $end)
 {
