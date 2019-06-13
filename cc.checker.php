@@ -1,4 +1,5 @@
 <?php
+class CC
 error_reporting(1);
 function value($string, $start, $end)
 {
